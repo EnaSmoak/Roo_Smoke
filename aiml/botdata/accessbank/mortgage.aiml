@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<category><pattern>WHAT TYPES OF MORTGAGE ARE AVAILABLE</pattern>
+<template>Loan for outright purchase of property, loan against existing property of applicant, loan for Home renovation/refurbishment, Loan for property under construction.</template>
+</category>
+<category><pattern>WHAT IS THE LTV RATIO</pattern>
+<template>LTV stands for loan to value and the ratio is the amount of the mortgage expressed as a percentage of the property's value. The lower the LTV, the greater the equity in the property. Our maximum LTV is 70%.</template>
+</category>
+<category><pattern>DO I HAVE TO PAY MORTGAGE FEES UP FRONT</pattern>
+<template> Commitment and Management fees are paid one-off upfront while Advisory fee is paid on outstanding principal at every anniversary of the loan.</template>
+</category>
+<category><pattern>WHAT HAPPENS IF INTEREST RATES INCREASE</pattern>
+<template> Our interest rate is floating and subject to review from time to time in line with the prevailing money market condition.</template>
+</category>
+<category><pattern>WHAT INSURANCE DO I NEED</pattern>
+<template>Credit life insurance to cover against the risk of death, job loss and permanent disability. Asset Protection insurance to protect against destruction of the property.</template>
+</category>
+<category><pattern>WHAT IS INCLUDED IN A MONTHLY REPAYMENT</pattern>
+<template> The monthly mortgage payment mainly pays off principal and interest.</template>
+</category>
+<category><pattern>HOW DO I KNOW HOW MUCH I CAN ACCESS</pattern>
+<template>Mortgage payments are based on the loan amount, the loan interest rate, tenor of the loan, age of borrower.</template>
+</category>
+<category><pattern>WHO IS ELIGIBLE TO ACCESS OUR MORTGAGE PRODUCT</pattern>
+<template>Salaried employees, Self Employed individuals, Business Owners, Affluent Professionals, High Networth Individuals etc</template>
+</category>
+<category><pattern>WHAT IS THE INTEREST RATE ON THIS MORTGAGE</pattern>
+<template>The interest is tied to MPR on a risk based pricing ranging between 18 and 23% p.a </template>
+</category>
+<category><pattern>CAN THE BANK FINANCE PURCHASE OF LAND</pattern>
+<template>The Bank will only finance properties/buildings apart from land.</template>
+</category>
+<category><pattern>WHAT CAN DISQUALIFY MY APPLICATION</pattern>
+<template>Negative credit check, encumbered property, bad search report, High DSR.</template>
+</category>
+<category><pattern>HOW DO I GET MORE INFORMATION</pattern>
+<template>Call Access Bank contact centre or contact the Mortgage Product Manager. </template>
+</category>
+</aiml>

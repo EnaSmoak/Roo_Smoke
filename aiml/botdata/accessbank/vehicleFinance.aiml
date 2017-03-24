@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<category><pattern>WHAT IS VEHICLE FINANCE</pattern>
+<template>Vehicle Finance is Access Bank’s vehicle lease product designed to enable customers acquire new vehicles in a financially convenient manner.</template>
+</category>
+<category><pattern>HOW DO I APPLY</pattern>
+<template>Customers can apply by either visiting the bank’s website address www.accessbankplc.com under “Personal” and follow the simplified application process or pick up hard copy application forms from any Access Bank branch.</template>
+</category>
+<category><pattern>WHO CAN APPLY FOR VEHICLE FINANCE</pattern>
+<template>Employees, Self Employed Professionals and Corporates</template>
+</category>
+
+<category><pattern>WHAT STEPS ARE TO BE TAKEN TO COMMENCE THE TRANSACTION</pattern>
+<template>Decide on the vehicle of your choice. Obtain pro forma invoice from any of the bank's accredited vendors, and Submit your application (online or hard copy) to the bank.</template>
+ </category>
+<category><pattern>HOW LONG DOES THE PROCESS TAKE</pattern>
+<template>The turnaround time is within 72 hours upon acceptance of offer, submission of complete documentation and positive verifications</template>
+</category>
+<category><pattern>HOW WILL THE CUSTOMER KNOW THAT THE TRANSACTION HAS BEEN CONSUMMATED</pattern>
+<template>The Relationship Officer will be carry the customer on the progress of the transaction as well when as the loan is booked and payment has been made to the dealer.</template>
+</category>
+<category><pattern>HOW WILL I HANDLE THE DELIVERY OF THE DELIVERY</pattern>
+<template>The customer is expected to agree with the dealer on the delivery terms at the point of requesting pro forma invoice.</template>
+</category>
+<category><pattern>WHAT TYPE OF VEHICLES DOES THE BANK FINANCE</pattern>
+<template>Only new vehicles sold and serviced by the banks accredited dealers.</template>
+</category>
+<category><pattern>IS THERE A CEILING ON THE VALUE OF VEHICLE THAT THE BANK CAN FINANCE</pattern>
+<template>There is no limit however the customers capacity to repay must be within 33.3% of your income.</template>
+</category>
+<category><pattern>WHAT IS THE REPAYMENT PERIOD</pattern>
+<template>Up to 48 months tenor.</template>
+</category>
+<category><pattern>HOW WILL THE REPAYMENT BE MADE</pattern>
+<template>The customer is ensure that his/her account with the bank is adequately funded on the repayment due date to accommodate the rental that mature into account.</template>
+</category>
+<category><pattern>CAN A NON-ACCOUNT HOLDER APPLY</pattern>
+<template>Yes they can. However they will be required to open an account.</template>
+</category>
+<category><pattern>WHO WILL BE RESPONSIBLE FOR THE VEHICLE REGISTRATION</pattern>
+<template>The customer is expected to negotiate the cost of registration with the automobile dealer.</template>
+</category>
+<category><pattern>WHO KEEPS THE ORIGINAL VEHICLE DOCUMENTS</pattern>
+<template>All original vehicles papers are to be held by the bank until expiration of the facility and completion of payment.</template>
+</category>
+<category><pattern>WHAT HAPPENS AFTER THE END OF THE FACILITY</pattern>
+<template>The customer is required to send in a written request through the Relationship Officer for the release of the original vehicle documents in the bankâ€™s custody.</template>
+</category>
+<category><pattern>CAN I PAY LUMP SUM AMOUNT TO REDUCE MY OBLIGATION</pattern>
+<template>Yes this is allowed.</template>
+</category>
+<category><pattern>IS IT POSSIBLE TO PAY DOWN ON THE LEASE FACILITY BEFORE EXPIRATION OF THE CONTRACT</pattern>
+<template>Yes this is allowed and without any penalty.</template>
+</category>
+<category><pattern>WHO INSURES THE VEHICLE</pattern>
+<template>It is the responsibility of the bank to insure the vehicle throughout the tenor of the facility at a cost to be borne by the customer.</template>
+</category>
+<category><pattern>WHAT HAPPENS TO THE PROCEEDS OF THE CLAIM</pattern>
+<template>Cheques received from the underwriter(s) for the claims settlement will be paid into the customer’s account.</template>
+</category>
+</aiml>

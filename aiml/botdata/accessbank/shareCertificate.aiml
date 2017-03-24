@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<category><pattern>THAT INFORMATION *</pattern>
+<template>I know what you mean.</template>
+</category>
+<category><pattern>OUTSIDE BANKING</pattern>
+<template>Please ask banking related questions</template>
+</category>
+<category><pattern>I HAVE LOST MY SHARE CERTIFICATE HOW DO I GET IT *</pattern>
+<template>If you need to get a share certificate please download and complete Non-receipt of Share Certificate form, attach a police report or court affidavit and submit the form in person to United Securities Limited or any Access Bank Branch.</template>
+</category>
+<category><pattern>MY SHARE CERTIFICATE WAS STOLEN HOW DO I GET IT REPLACED</pattern>
+<template>The loss of a share certificate must be brought to the attention of the Registrars immediately and you will need to provide a police report on the theft.
+Please download and complete Non-receipt of Share Certificate form and submit the form in person to United Securities Limited or any Access Bank Branch. The form is also available from any Access Bank branch</template>
+</category>
+<category><pattern>I HAVE SEVERAL REGISTRAR ACCOUNTS FOR MY SHAREHOLDING IN THE SAME COMPANY HOW DO I CONSOLIDATE THESE ACCOUNTS INTO ONE</pattern>
+<template>Please download and complete the Consolidation of Accounts form and submit the form in person to United Securities or any Access Bank Branch. The form is also available from any Access Bank branch. This request will be treated within 5 days.</template>
+</category>
+<category><pattern>I WANT TO PLACE A CAUTION ON MY ACCOUNT HOW DO I GET THIS DONE</pattern>
+<template>We require a written instruction from the signatory to the stock account in order to place a caution. This should be in the form of a letter signed by the authorised signatory requesting the caution.</template>
+</category>
+<category><pattern>HOW DO I REVALIDATE MY STALE WARRANT</pattern>
+<template>A stale warrant can only be re-validated by the Registrars.The stale warrant should be forwarded for revalidation after completing the Revalidation Form via the post, taken to USL personally, or routed through a stockbroker with appropriate authorisation from the shareholder.A stale warrant can be revalidated immediately upon receipt by the registrar.</template>
+</category>
+<category><pattern>I HAVE NOT RECEIVED MY DIVIDEND WARRANT FOR A PARTICULAR DIVIDEND PAYMENT. WHAT’S THE PROCESS FOR A RE-ISSUE?</pattern>
+<template>Please download and complete Non-receipt of Dividend Warrant form and submit the form in person to United Securities Limited or any Access Bank Branch. The form is also available from any Access Bank branch. The warrant will be processed and replacement warrants issued for outstanding payments. The replacement warrant can be collected from the USL offices or mailed to you.</template>
+</category>
+<category><pattern>HOW CAN I HAVE MY DIVIDEND CREDITED DIRECTLY TO MY ACCOUNT RATHER THAN PHYSICAL WARRANTS MAILED TO ME</pattern>
+<template>Please download and complete the e-Mandate form for the direct crediting of your dividend to your Bank account and submit the form in person or by post to United Securities Limited or any Access Bank branch. The form is also available from any Access Bank branch.</template>
+</category>
+<category><pattern>I BOUGHT SOME SHARES DURING THE ACCESS BANK PLC PUBLIC OFFER BUT I AM YET TO RECEIVE A CHEQUE FOR THE UN-ALLOTTED PART OF MY APPLICATION</pattern>
+<template>Kindly visit any of our branches nationwide with a proof of ownership or purchase of the public offer shares and a replacement draft for your return money will be issued to you.</template>
+</category>
+<category><pattern>I RECEIVED A RETURN MONEY CHEQUE FOR THE UN-ALLOTTED PART OF MY APPLICATION IN THE LAST PUBLIC OFFER BUT THE CHEQUE IS STALE HOW DO I GET IT REVALIDATED</pattern>
+<template>Kindly visit any of our branches nationwide with a proof of ownership or purchase of the public offer shares and the stale return money draft will be re-validated immediately.</template>
+</category>
+<category><pattern>THERE IS A SPELLING ERROR ON MY NAME HOW CAN A CORRECTION BE EFFECTED</pattern>
+<template>Please download and complete the Customer Records Amendment Form and submit the form in person along with your share certificate(s) in the wrongly spelt names to United Securities Limited. The error will then be corrected and new share certificate(s) issued in the correct name.</template>
+</category>
+<category><pattern>HOW CAN I CORRECT AN ERROR IN MY ADDRESS</pattern>
+<template>Please download and complete the Customer Records Amendment Form and submit the form in person with the address corrected to United Securities Limited. The form is also available from any Access Bank branch. The address will be corrected on the Register immediately.</template>
+</category>
+<category><pattern>HOW CAN I EFFECT A CHANGE IN MY SIGNATURE MANDATE</pattern>
+<template>To change your signature you will be required to submit your current specimen signature confirmed by a Bank with a formal letter from the shareholder addressed to the registrar, United Securities Limited, showing both the old and the current signatures.</template>
+</category>
+<category><pattern>HOW DO WE TRANSMIT A DECEASED PERSON SHARES TO HIS/HER ADMINISTRATORS</pattern>
+<template>Please download and complete the Transmission Documents Checklist. The shares of the deceased person will be transferred to his/her Estate as soon as all necessary documents have been received and verified.</template>
+</category>
+<category><pattern>I WOULD LIKE TO TRADE ON MY SHARES AT THE STOCK EXCHANGE BUT I STILL HAVE MY SHARE CERTIFICATE HOW CAN THIS BE DONE</pattern>
+<template>In order to trade on your shares you will need to engage the services of your stockbrokers. If you do not have a stockbroker we suggest that you request the list of approved Stockbrokers from the Ghanaian Stock Exchange.</template>
+</category>
+<category><pattern>HOW LONG WILL IT TAKE FOR MY SHARE CERTIFICATE TO BE DEMATERIALIZED AND LODGED INTO MY ACCOUNT AT THE CSCS ONCE IT IS PRESENTED TO YOU FOR VERIFICATION</pattern>
+<template>It will take 48 hours in the absence of any irregularities.</template>
+</category>
+<category><pattern>HOW CAN I KNOW THE STATUS OF THE VERIFICATION OF MY SHARE CERTIFICATE</pattern>
+<template>You can access the status of the verification through USL’s Web site or through Access Bank Plc’s website. You can also call the IR department on 012364130.</template>
+</category>
+<category><pattern>HOW CAN I PREVENT TRADING ON MY STOCKS BY MY STOCKBROKERS WITHOUT MY AUTHORISATION</pattern>
+<template>To prevent trading by your stockbrokers you should write to the Registrars and instruct them to place a caution on your account or flag your account ‘No trades’..</template>
+</category>
+</aiml>

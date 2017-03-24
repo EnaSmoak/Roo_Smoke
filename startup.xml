@@ -1,0 +1,13 @@
+<aiml version="1.0">
+
+<category>
+<pattern>LOAD ACCESSBANK</pattern>
+<template>
+
+<!-- Load ALICE AIML set -->
+<learn>aiml/botdata/accessbank/*.aiml</learn>
+
+</template>
+</category>
+
+</aiml>

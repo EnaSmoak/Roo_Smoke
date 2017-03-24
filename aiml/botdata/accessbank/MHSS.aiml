@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 11/24/2011 -->
+<!-- -->
+<category><pattern>WHAT IS MHS SCHEME</pattern>
+<template> MHS Scheme is our Maternal Health Support Scheme specially designed to support women and families with easy and convenient options to pay for medical expenses.</template>
+</category>
+<category><pattern>WHAT MEDICAL PROCEDURES DOES THE SCHEME COVER</pattern>
+<template>Fertility treatments, natal (child delivery) services, bariatric (weight control), specialized procedures such as hysterectomy, myomectomy etc.</template>
+</category>
+<category><pattern>TO WHAT DEGREE WILL ACCESS BANK HELP WITH OVERSEAS BILLS</pattern>
+<template>The MHS Scheme covers both domestic and overseas medical bills.</template>
+</category>
+<category><pattern>WHO CAN BENEFIT FROM THE SCHEME</pattern>
+<template>The scheme is designed to support women and families in general with financing to pay for medical bills. This is open to everyone but you need to have a banking relationship with Access Bank.</template>
+</category>
+<category><pattern>WILL THE FINANCING COVER MEDICAL BILLS FROM ANY HOSPITAL</pattern>
+<template>For some specific medical procedures we have partner hospitals otherwise we would accept your preferred hospital which must be accredited in line with our acceptance criteria.</template>
+</category>
+<category><pattern>IS THERE A LIMIT TO THE AMOUNT PAYABLE FOR THE MEDICAL PROCEDURE</pattern>
+<template>Usually, the value of financing is subject to your capacity to repay. </template>
+</category>
+<category><pattern>WHAT DO I NEED TO BENEFIT FROM THIS SCHEME</pattern>
+<template>You or your partner or both need to have a banking relationship with Access Bank either as a salary earner, or an entrepreneur. In the case of families, couples can combine their resources for the purpose of financing.</template>
+</category>
+<category><pattern>HOW OFTEN CAN I ACCESS THIS SCHEME</pattern>
+<template>The scheme is available for approved procedures but subject to your capacity to repay.</template>
+</category>
+<category><pattern>HOW DO I APPLY</pattern>
+<template>You can apply on line at www.accessbankplc.com or pick up an application form in any of our branches closest to you nationwide.</template>
+</category>
+<category><pattern>IS MY CONFIDENTIALITY GUARANTEED UNDER THIS SCHEME</pattern>
+<template>All information exchanged under this scheme will be handled with utmost confidentiality and will only be available to relevant parties.</template>
+</category>
+</aiml>
